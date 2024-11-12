@@ -1,3 +1,5 @@
+# comment
+
 
 build: my_lib.o main.o
 	g++ main.o my_lib.o -o main
